@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to KK AWS NEW BATCH MAY 25th 7 AM to 8:45 AM IST pls reachout to me 9676831744 </h1>
+<h1 align="center">Hello World </h1>
 <h1 align="center"> KK DEVOPS</h1>
 <hr>
 <br>
