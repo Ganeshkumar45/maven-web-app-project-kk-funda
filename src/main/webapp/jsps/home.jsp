@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to venkat you learning Aws DevOps class start 7:30 pm</h1>
+<h1 align="center">Welcome to venkat you learning Aws DevOps class start terraform</h1>
 <h1 align="center"> aws devops</h1>
 <hr>
 <br>
