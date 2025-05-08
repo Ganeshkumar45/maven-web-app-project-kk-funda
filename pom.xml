@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>dev-demorelease</name>
-	      <url>http://13.203.91.147:8081/repository/demo-devrelease/</url>
+	      <url>http://13.203.91.147:8081/repository/dev-demorelease/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>dev-demosnapshot</name>
-	      <url>http://13.203.91.147:8081/repository/demo-devsnapshot/</url>
+	      <url>http://13.203.91.147:8081/repository/dev-demosnapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
