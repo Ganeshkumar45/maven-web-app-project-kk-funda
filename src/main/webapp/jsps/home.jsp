@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>UNITED STATES OF AMERICA</title>
+<title>UNITED STATES OF AMERICA (USA)</title>
 <link href="images/kkfunda.jpg" rel="icon">
 </head>
 </head>
