@@ -47,7 +47,7 @@ pipeline {
            {
         sh """
             curl -u admin:venkat123\
-            --upload-file /var/lib/jenkins/workspace/multibranch_pipeline/target/maven-web-application.war \
+            --upload-file /var/lib/jenkins/workspace/multibranch_pipeline123/DEV/target/maven-web-application.war \
             "http://http://18.61.33.87:8080/manager/text/deploy?path=/maven-web-application&update=true"
         """
            }
