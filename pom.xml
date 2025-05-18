@@ -91,13 +91,14 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>dev-demorelease</name>
-	      <url>http://localhost:8082/repository/webapprel/</url>
+	      <url>http://10.255.255.254:8082/repository/webapprel/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>dev-demosnapshot</name>
-	      <url>http://localhost:8082/repository/webappsnap/</url>
+	      <url>http://10.255.255.254:8082/repository/webappsnap/</url>
+
 	    </snapshotRepository>
 	    
 	</distributionManagement>
