@@ -21,7 +21,7 @@
 		<spring.version>5.3.34</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://172.31.55.128:9000</sonar.host.url>
+		<sonar.host.url>http://34.199.175.153:9000</sonar.host.url>
 		<sonar.login>admin</sonar.login>
 		<sonar.password>admin123</sonar.password> 
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -91,13 +91,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>webapprel</name>
-	      <url>http://172.31.55.128:8082//repository/webapprel/</url>
+	      <url>http://35.170.170.231:8081/repository/webapprel/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>webappsnap</name>
-	      <url>http://172.31.55.128:8082//repository/webappsnap/</url>
+	      <url>http://35.170.170.231:8081/repository/webappsnap/</url>
 
 	    </snapshotRepository>
 	    
