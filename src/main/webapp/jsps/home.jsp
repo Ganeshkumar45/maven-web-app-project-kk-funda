@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to KK AWS DEVOPS Today at 7.30PM </h1>
+<h1 align="center">Welcome to KK AWS DEVOPS Today at 7.30PM till 9.30PM</h1>
 <h1 align="center"> KK FUNDA</h1>
 <hr>
 <br>
